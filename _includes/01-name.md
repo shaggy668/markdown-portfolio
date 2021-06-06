@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+Shaggy - [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world

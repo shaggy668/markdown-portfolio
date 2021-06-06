@@ -1,0 +1,3 @@
+- [ ] play music
+- [ ] have sex
+- [ ] meditate

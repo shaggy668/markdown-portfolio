@@ -1,0 +1,4 @@
+- [ ] **hard** worker
+- [ ] *intelligent*
+- [ ] **$exy**
+ 
